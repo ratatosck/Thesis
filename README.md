@@ -1,2 +1,2 @@
 # Thesis
- Appliying Deep Reinforcement Learning for time series control
+ Applying Deep Reinforcement Learning for time series control
